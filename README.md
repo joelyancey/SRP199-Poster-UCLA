@@ -8,9 +8,10 @@ The cortex encodes sensory information via the spatiotemporal activation of a la
 
 In this experiment, we decoded stimulus features from a population of neural responses, to characterize the spatial and temporal information available (Fig. 1). Specifically, we presented different auditory tones to awake, behaving animals, while recording extracellularly from a population of neurons in the auditory cortex. One computational model, the State-Dependent Network (SDN) model, predicts that the population of cortical neurons can encode past and present sensory events. Our goal was in part to test this hypothesis by seeing if the population response encodes not only spatial information, but information about the order of the tones as well. As such, we presented paired tones separated by 100 ms and attempted to decode the pitch of the first tone from the population response to the second tone. We used a support vector machine (SVM) algorithm to determine the amount of information the neural population had about which stimuli were presented. We found that the population encoded the features of the current stimulus well. There was a low, but statistically significant, amount of information about the previous stimulus.
 
-## ORIGINAL POSTER
+## POSTER
 
 "Decoding Stimulus Features From Cortical Population Responses" (Yancey, J., Halladay, L., DeGuzman, R., Blair, T., & Buonomano, D.) Poster presented at UCLA Neuroscience Undergraduate Poster Fair in California, Los Angeles.
+https://raw.githubusercontent.com/joelyancey/SRP199-Poster-UCLA/main/Poster.pdf
     
 ## CITATIONS
    
