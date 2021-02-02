@@ -1,6 +1,6 @@
 ## BRIEF
 
-The RunSVM.m MATLAB script uses LIBSVM (Library for Support Vector Machines) to train and test whether information is available in neural population responses. The data we acquired from this novel, in vivo experiment showed a low, but statistically significant amount of information about stimulus order (temporal encoding). Further investigation is required to validate this result. Results of this experiment are unpublished, however some interesting findings were presented by Joel Yancey at the 2015 UCLA Neuroscience Undergraduate Poster Fair. His presentation is titled "Decoding Stimulus Features from Cortical Population Response."
+How does the brain tell time? The RunSVM.m MATLAB script uses LIBSVM (Library for Support Vector Machines) to train and test whether information is available in neural population responses. The data we acquired from this novel, in vivo experiment showed a low, but statistically significant amount of information about stimulus order (temporal encoding). Further investigation is required to validate this result. Results of this experiment are unpublished, however some interesting findings were presented by Joel Yancey at the 2015 UCLA Neuroscience Undergraduate Poster Fair. His presentation is titled "Decoding Stimulus Features from Cortical Population Response."
 
 ## POSTER ABSTRACT
 
